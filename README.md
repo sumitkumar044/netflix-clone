@@ -4,7 +4,7 @@ A responsive and visually appealing landing page inspired by Netflix, built usin
 This project showcases a modern homepage design with hero banners, trending sections, and hover effects.
 
 ## 🚀 Live Demo
-[View Live](https://dashing-faloodeh-0bfd2c.netlify.app/)
+[View Live](https://unique-sawine-c8c18a.netlify.app/)
 
 #if show any type or error then reopen in incognito tab 
 
